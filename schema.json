@@ -1,0 +1,57 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "date",
+    "type": "DATE"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "channel_grouping",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "medium",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "sessions",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "pageviews",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "bounces",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "session_duration",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "exits",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "users",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "new_users",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "goal1_completions",
+    "type": "INTEGER"
+  }
+]
